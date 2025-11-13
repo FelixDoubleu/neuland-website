@@ -1,7 +1,7 @@
 ---
 title: "LAN Party October 2025"
 authors: 
-  - name: ""
+  - name: "Ronja"
 date: 2025-05-25T20:00
 description: "Unsere LAN Party zusammen mit Hochschulgaming Ingolstadt e.V."
 tags:
