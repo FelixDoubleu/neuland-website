@@ -13,9 +13,9 @@ Am Wochenende der Zeitumstellung wurde bei uns im Neuland Ingolstadt e.V. wieder
 
 ![Zwei Spieler - eins gegen eins](/assets/blog/lan-oct-2025/lan_4.webp)
 
-Für das leibliche Wohl war gesorgt: Es gab kostenloses Red Bull im Rahmen eines kleinen Tetris-Tourniers, dazu Spezi und verschiedene Snacks. Traditionell wurde wieder bei der örtlichen Pizzeria bestellt – besonders zur Freude derjenigen, die bereits ab 15 Uhr ihre PCs aufgebaut hatten.
+Für das leibliche Wohl war gesorgt: Es gab kostenloses Red Bull im Rahmen eines kleinen Tetris-Turniers, dazu Spezi und verschiedene Snacks. Traditionell wurde wieder bei der örtlichen Pizzeria bestellt – besonders zur Freude derjenigen, die bereits ab 15 Uhr ihre PCs aufgebaut hatten.
 
-![Tetris Tournier am Handy](/assets/blog/lan-oct-2025/lan_3.webp)
+![Tetris Turnier am Handy](/assets/blog/lan-oct-2025/lan_3.webp)
 
 Das Setup verlief dieses Mal besonders reibungslos. Netzwerk und Internet standen bereits zwei Stunden vor dem offiziellen Start stabil zur Verfügung. Dafür sorgte die gleiche Hardware, die auch auf der größeren „Infinity LAN“ verwendet wird. Auch die IT Abteilung der THI hat uns nicht im Stich gelassen und extra für unser Event eine schnellere Verbindung freigeschaltet.
 
