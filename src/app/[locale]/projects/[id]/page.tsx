@@ -1,11 +1,20 @@
 import { notFound } from 'next/navigation'
-import { getTranslations } from 'next-intl/server'
+import { getTranslations, setRequestLocale } from 'next-intl/server'
 import type { ProjectDetails } from '@/components/Projects/project-card'
 import projectsData from '@/data/projects.json'
+import { routing } from '@/i18n/routing'
 import ProjectDetailClient from './project-detail-client'
 
-export const generateStaticParams = async () =>
-	(projectsData as ProjectDetails[]).map((project) => ({ id: project.id }))
+export const generateStaticParams = async () => {
+	const locales = routing.locales
+
+	return locales.flatMap((locale) =>
+		(projectsData as ProjectDetails[]).map((project) => ({
+			id: project.id,
+			locale: locale
+		}))
+	)
+}
 
 export async function generateMetadata({
 	params
@@ -32,9 +41,10 @@ export async function generateMetadata({
 const ProjectDetailPage = async ({
 	params
 }: {
-	params: Promise<{ id: string }>
+	params: Promise<{ id: string; locale: string }>
 }) => {
-	const { id } = await params
+	const { id, locale } = await params
+	setRequestLocale(locale)
 	const project = (projectsData as ProjectDetails[]).find((p) => p.id === id)
 
 	if (!project) {

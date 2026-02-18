@@ -1,7 +1,7 @@
 import { allPosts } from 'contentlayer/generated'
 import { format, parseISO } from 'date-fns'
 import { ArrowLeft } from 'lucide-react'
-import { getTranslations } from 'next-intl/server'
+import { getTranslations, setRequestLocale } from 'next-intl/server'
 import TerminalButton from '@/components/terminal-button'
 import {
 	Breadcrumb,
@@ -11,19 +11,28 @@ import {
 	BreadcrumbSeparator
 } from '@/components/ui/breadcrumb'
 import { Link } from '@/i18n/navigation'
+import { routing } from '@/i18n/routing'
 
 type Author = {
 	name: string
 	link?: string
 }
 
-export const generateStaticParams = async () =>
-	allPosts.map((post) => ({ slug: post._raw.flattenedPath }))
+export const generateStaticParams = async () => {
+	const locales = routing.locales
+
+	return allPosts.flatMap((post) =>
+		locales.map((locale) => ({
+			slug: post._raw.flattenedPath,
+			locale: locale
+		}))
+	)
+}
 
 export const generateMetadata = async ({
 	params
 }: {
-	params: { slug: string }
+	params: Promise<{ slug: string; locale: string }>
 }) => {
 	const { slug } = await params
 
@@ -32,8 +41,13 @@ export const generateMetadata = async ({
 	return { title: post.title }
 }
 
-const PostLayout = async ({ params }: { params: { slug: string } }) => {
-	const { slug } = await params
+const PostLayout = async ({
+	params
+}: {
+	params: Promise<{ slug: string; locale: string }>
+}) => {
+	const { slug, locale } = await params
+	setRequestLocale(locale)
 
 	const t = await getTranslations('Blog')
 
