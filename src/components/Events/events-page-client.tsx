@@ -200,13 +200,13 @@ const EventsPageClient = ({ initialData, error }: EventsPageClientProps) => {
 											<div className="shrink-0">
 												{event.isInternal ? (
 													<InternalOnlyTooltip>
-														<span className="inline-flex items-center gap-1 border border-terminal-window-border/80 bg-terminal-card/70 px-2 py-[2px] text-[0.6rem] font-semibold uppercase tracking-[0.08em] text-terminal-text/80">
+														<span className="inline-flex items-center gap-1 border border-terminal-window-border/80 bg-terminal-card/70 px-2 py-0.5 text-[0.6rem] font-semibold uppercase tracking-[0.08em] text-terminal-text/80">
 															<Lock size={10} />
 															{t('filters.internal')}
 														</span>
 													</InternalOnlyTooltip>
 												) : (
-													<span className="inline-flex items-center gap-1 border border-terminal-window-border/80 bg-terminal-card/70 px-2 py-[2px] text-[0.6rem] font-semibold uppercase tracking-[0.08em] text-terminal-text/80">
+													<span className="inline-flex items-center gap-1 border border-terminal-window-border/80 bg-terminal-card/70 px-2 py-0.5 text-[0.6rem] font-semibold uppercase tracking-[0.08em] text-terminal-text/80">
 														<Unlock size={10} />
 														{t('filters.public')}
 													</span>

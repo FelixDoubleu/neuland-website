@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { getTranslations, setRequestLocale } from 'next-intl/server'
 import EventsPageClient from '@/components/Events/events-page-client'
+import { getCurrentSemester } from '@/lib/semester'
 import { fetchAllEvents } from '@/services/events'
 
 export async function generateMetadata({
@@ -32,7 +33,7 @@ const EventsPage = async ({
 		return (
 			<EventsPageClient
 				initialData={{
-					semester: `SS ${new Date().getFullYear()}`,
+					semester: getCurrentSemester(),
 					events: []
 				}}
 				error={

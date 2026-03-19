@@ -121,14 +121,14 @@ const EventDetailPage = async ({
 				</Breadcrumb>
 
 				<div className="mt-8 relative bg-terminal-window border border-terminal-window-border p-6 md:p-8 overflow-hidden">
-					<div className="absolute inset-0 bg-gradient-to-br from-terminal-cyan/3 via-transparent to-terminal-cyan/3 pointer-events-none" />
+					<div className="absolute inset-0 bg-linear-to-br from-terminal-cyan/3 via-transparent to-terminal-cyan/3 pointer-events-none" />
 					<div className="relative z-10">
 						<div className="flex items-start justify-between gap-3 mb-4">
 							<h1 className="text-3xl font-bold text-terminal-lightGreen leading-tight">
 								{title}
 							</h1>
 							<div className="shrink-0">
-								<span className="inline-flex items-center border border-terminal-window-border/80 bg-terminal-card/70 px-2 py-[2px] text-[0.65rem] font-semibold uppercase tracking-[0.08em] text-terminal-text/80">
+								<span className="inline-flex items-center border border-terminal-window-border/80 bg-terminal-card/70 px-2 py-0.5 text-[0.65rem] font-semibold uppercase tracking-[0.08em] text-terminal-text/80">
 									{event.isInternal
 										? t('filters.internal')
 										: t('filters.public')}

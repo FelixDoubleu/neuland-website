@@ -8,6 +8,7 @@ import TerminalSection from '@/components/Layout/terminal-section'
 import TerminalButton from '@/components/terminal-button'
 import TerminalList from '@/components/terminal-list'
 import { InternalOnlyTooltip } from '@/components/ui/tooltip'
+import { getCurrentSemester } from '@/lib/semester'
 import { cn } from '@/lib/utils'
 import type { fetchEvents } from '@/services/events'
 import CalendarModal from './calendar-modal'
@@ -29,7 +30,7 @@ const InternalBadge = React.forwardRef<
 		<span
 			ref={ref}
 			className={cn(
-				'inline-flex items-center gap-1 border border-terminal-window-border/80 bg-terminal-card/70 px-2 py-[2px] text-[0.6rem] font-semibold uppercase tracking-[0.08em] text-terminal-text/80',
+				'inline-flex items-center gap-1 border border-terminal-window-border/80 bg-terminal-card/70 px-2 py-0.5 text-[0.6rem] font-semibold uppercase tracking-[0.08em] text-terminal-text/80',
 				className
 			)}
 			{...props}
@@ -52,7 +53,7 @@ const TerminalEvents: React.FC<TerminalEventsProps> = ({
 	const t = useTranslations('Home.eventsSection')
 
 	const eventsData = initialData || {
-		semester: `SS ${new Date().getFullYear()}`,
+		semester: getCurrentSemester(),
 		events: []
 	}
 	const error = serverError
@@ -100,17 +101,17 @@ const TerminalEvents: React.FC<TerminalEventsProps> = ({
 	return (
 		<TerminalSection
 			title={t('title')}
-			subtitle={`${t('eventsIn')} ${eventsData?.semester || `SS ${new Date().getFullYear()}`}`}
+			subtitle={`${t('eventsIn')} ${getCurrentSemester()}`}
 			headingLevel={2}
 		>
-			<div className="max-w-5xl mx-auto justify-start mt-10 mb-8 relative overflow-visible min-h-[200px] font-mono">
+			<div className="max-w-5xl mx-auto justify-start mt-10 mb-8 relative overflow-visible min-h-50 font-mono">
 				<TerminalWindow
-					title={`eventsData.sh --semester '${eventsData?.semester || `SS ${new Date().getFullYear()}`}'`}
+					title={`eventsData.sh --semester '${getCurrentSemester()}'`}
 					showStickyNote={true}
 					onRedButtonClick={handleRedButtonClick}
 					className="max-h-none"
 				>
-					<div className="overflow-y-auto overflow-x-hidden max-h-[65vh] md:max-h-[36rem]">
+					<div className="overflow-y-auto overflow-x-hidden max-h-[65vh] md:max-h-144">
 						<TerminalList>
 							{error ? (
 								<div className="p-4 text-terminal-lightGreen">
@@ -145,7 +146,7 @@ const TerminalEvents: React.FC<TerminalEventsProps> = ({
 							) : (
 								<div
 									ref={containerRef}
-									className="min-h-[250px] h-auto relative"
+									className="min-h-62.5 h-auto relative"
 									style={{
 										overflowY: 'visible',
 										height:

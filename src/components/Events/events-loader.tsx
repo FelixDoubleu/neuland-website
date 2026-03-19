@@ -1,4 +1,5 @@
 'use server'
+import { getCurrentSemester } from '@/lib/semester'
 import { fetchEvents } from '@/services/events'
 
 export async function getEventsData() {
@@ -9,7 +10,7 @@ export async function getEventsData() {
 		console.error('Error fetching events in server component:', error)
 		return {
 			events: {
-				semester: `SS ${new Date().getFullYear()}`,
+				semester: getCurrentSemester(),
 				events: []
 			},
 			error: error instanceof Error ? error.message : 'Failed to fetch events'
