@@ -56,9 +56,9 @@ const InternalOnlyTooltip: React.FC<InternalOnlyTooltipProps> = ({
 }
 
 export {
+	InternalOnlyTooltip,
 	Tooltip,
-	TooltipTrigger,
 	TooltipContent,
 	TooltipProvider,
-	InternalOnlyTooltip
+	TooltipTrigger
 }
