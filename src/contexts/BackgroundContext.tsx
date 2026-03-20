@@ -1,13 +1,8 @@
 'use client'
 import type React from 'react'
-import { createContext, useContext, useEffect, useState } from 'react'
-
-export type BackgroundType = 'simple' | 'gameOfLife'
+import { createContext, useContext, useState } from 'react'
 
 interface BackgroundContextType {
-	backgroundType: BackgroundType
-	setBackgroundType: (type: BackgroundType) => void
-	toggleBackgroundType: () => void
 	crossesRotationToken: number
 	triggerCrossesRotation: () => void
 }
@@ -19,31 +14,7 @@ const BackgroundContext = createContext<BackgroundContextType | undefined>(
 export const BackgroundProvider: React.FC<{ children: React.ReactNode }> = ({
 	children
 }) => {
-	const [backgroundType, setBackgroundTypeState] =
-		useState<BackgroundType>('simple')
 	const [crossesRotationToken, setCrossesRotationToken] = useState(0)
-
-	useEffect(() => {
-		const savedType = localStorage.getItem(
-			'backgroundTypeV2'
-		) as BackgroundType | null
-		if (savedType && (savedType === 'simple' || savedType === 'gameOfLife')) {
-			setBackgroundTypeState(savedType)
-		}
-	}, [])
-
-	const setBackgroundType = (type: BackgroundType) => {
-		setBackgroundTypeState(type)
-		localStorage.setItem('backgroundType', type)
-	}
-
-	const toggleBackgroundType = () => {
-		setBackgroundTypeState((prev) => {
-			const newType = prev === 'simple' ? 'gameOfLife' : 'simple'
-			localStorage.setItem('backgroundType', newType)
-			return newType
-		})
-	}
 
 	const triggerCrossesRotation = () => {
 		setCrossesRotationToken((prev) => prev + 1)
@@ -52,9 +23,6 @@ export const BackgroundProvider: React.FC<{ children: React.ReactNode }> = ({
 	return (
 		<BackgroundContext.Provider
 			value={{
-				backgroundType,
-				setBackgroundType,
-				toggleBackgroundType,
 				crossesRotationToken,
 				triggerCrossesRotation
 			}}

@@ -214,7 +214,7 @@ const EventsPageClient = ({ initialData, error }: EventsPageClientProps) => {
 											</div>
 										</div>
 
-										<p className="text-terminal-text/80 mb-1">
+										<p className=">text-terminal-text/80 mb-1">
 											{formatEventDateRange(event, locale, t('tbd'))}
 										</p>
 										{event.location && (
