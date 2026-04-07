@@ -35,12 +35,12 @@ Ein Gewinnanspruch besteht nur für jede Person, die:
 1. Eine der Figuren findet.
 2. Ein Foto der Figur am Fundort in ihrer Instagram-Story postet und dabei @neuland_ingolstadt markiert.
 3. Zusätzlich bei privaten Profilen: Da Markierungen von privaten Profilen für uns nicht immer sichtbar sind, schicke uns das Foto deiner Story bitte zusätzlich als Direktnachricht (DM) spätestens bis zum 17.04.2026, 12:00 Uhr.
-4. Im Chat wird Abholzeit und -ort vereinbart.
+4. Im Chat mit uns wird Abholzeit und -ort vereinbart.
 
-Pro Person/Instagram-Account kann nur eine Figur gegen ein Osternest eingetauscht werden
+Pro Person/Instagram-Account kann nur ein Osternest abgeholt werden.
 
 ## 5. Gewinnübergabe (Nur Abholung)
-Das „Osternest“ besteht aus Schokolade, Gummibärchen und Stickern. Ein Versand per Post ist ausgeschlossen. Kann der Gewinn zum vereinbarten Zeitpunkt nicht abgeholt werden, verfällt der Anspruch – spätestens jedoch am 17.04.2026 um 23:59.
+Das „Osternest“ besteht aus Schokolade, Gummibärchen und Stickern. Ein Versand per Post ist ausgeschlossen. Kann der Gewinn zum vereinbarten Zeitpunkt nicht abgeholt werden, verfällt der Anspruch – spätestens jedoch am 17.04.2026 um 23:59, oder wenn alle Osternester abgeholt worden sind.
 
 ## 6. Datenschutz
 Zum Zweck der Gewinnabwicklung erfassen wir den Instagram-Namen der Finder.
