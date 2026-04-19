@@ -36,7 +36,7 @@ export async function fetchOutlineDocument(
 ): Promise<FetchDocumentResult> {
 	try {
 		const response = await fetch(
-			'https://notes.neuland-ingolstadt.de/api/documents.info',
+			'https://outline.neuland.ing/api/documents.info',
 			{
 				method: 'POST',
 				headers: {
