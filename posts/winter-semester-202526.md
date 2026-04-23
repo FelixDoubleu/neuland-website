@@ -9,49 +9,66 @@ tags:
   - Community
 ---
 
-
 Hallo liebe Leserin, lieber Leser,
 
-lassen Sie uns gemeinsam einen Blick auf das vergangene Wintersemester 2025/26 werfen. Es ist einiges passiert: So gab es insgesamt 18 verschiedene Veranstaltungen, an denen Neuland beteiligt war. Vor allem die Cookie Talks waren so beliebt, dass spontan als Ersatz für den abgesagten CTF ein zweites Mal Cookie Talks organisiert wurden. Dazu aber gleich mehr.
+das Wintersemester 2025/26 liegt hinter uns – lass uns gemeinsam einen Blick darauf werfen. Es ist einiges passiert: So gab es insgesamt 18 verschiedene Veranstaltungen, an denen Neuland beteiligt war. Besonders die Cookie Talks haben begeistert: Sie waren so erfolgreich, dass wir sie kurzerhand ein zweites Mal veranstaltet haben – als Ersatz für den leider abgesagten CTF. Aber der Reihe nach.
 
 ## Events im Überblick
 
 | Datum | Veranstaltung |
 |-------|---------------|
-| 20.09 | Spieleabend @ BayStuRa |
-| 29/30.09 | Einführungstage mit StudVer |
-| 01.10 | Erstitag      |
-| 02.10 | Stammtisch    |
-| 16.10 | Infoveranstaltung + Stammtisch |
-| 23.10 | Brettspielabend |
-| 25.10 | LAN Party     |
-| 30.10 | Stammtisch    |
-| 06.11 | Cookie Talks + code:together |
-| 13.11 | Brettspielabend |
-| 14.11 | Linux Install Party |
-| 21.11 | Fedora 43 Release Party |
-| 03.12 | Cookie Talks 2 |
-| ~~06.12~~ | ~~CTF Winter 2025~~ |
-| 16.12 | Weihnachtsfeier |
-| 18.12 | Brettspielabend |
-| 08.01 | Stammtisch    |
-| 10.02 | Brettspielabend |
-| 12.02 | Stammtisch    |
+| 20.09. | Spieleabend @ BayStuRa |
+| 29./30.09. | Einführungstage mit StudVer |
+| 01.10. | Erstitag |
+| 02.10. | Stammtisch |
+| 16.10. | Infoveranstaltung + Stammtisch |
+| 23.10. | Brettspielabend |
+| 25.10. | LAN Party |
+| 30.10. | Stammtisch |
+| 06.11. | Cookie Talks + code:together |
+| 13.11. | Brettspielabend |
+| 14.11. | Linux Install Party |
+| 21.11. | Fedora 43 Release Party |
+| 03.12. | Cookie Talks 2 |
+| ~~06.12.~~ | ~~CTF Winter 2025~~ |
+| 16.12. | Weihnachtsfeier |
+| 18.12. | Brettspielabend |
+| 08.01. | Stammtisch |
+| 10.02. | Brettspielabend |
+| 12.02. | Stammtisch |
 
 ## Ein Semester in Kürze
 
-Die ersten beiden Veranstaltungen auf der Liste gehören eigentlich noch zum Sommersemester, aufgrund ihrer zeitlichen und thematischen Nähe zum Wintersemester tauchen sie aber in diesem Rückblick auf. Los ging es mit dem "Spieleabend @ BayStuRa". Dieser war sehr gemütlich und einige unserer Neuländer konnten dort Studierende von anderen Hochschulen kennenlernen. Sollten Sie sich fragen: "Was ist ein BayStuRa?", dann kommt hier eine kurze Erklärung. Der BayStuRa oder Bayerische Landesstudierendenrat ist ein Gremium, welches aus Studierenden von bayrischen Hochschulen besetzt ist und die Interessen der Studierenden in ganz Bayern vertritt. Sozusagen wie unsere Studierendenvertretung an der THI, nur in größer. Der BayStuRa hat uns an diesem Abend sogar eine Runde Essen und Getränke für alle spendiert, was alle Teilnehmer sehr erfreut hat. Kurz vor Beginn des Wintersemesters finden meist Einführungstage statt, so wie auch dieses Mal. Da viele Neuländer aber noch nicht ganz aus den Ferien zurück waren, haben sich ein paar wenige Mitglieder einfach unter die Studierendenvertretung gemischt, um an den beiden Tagen etwas Präsenz zu zeigen. So richtig los ging es dann am Erstitag des Wintersemesters. Es war sehr viel los in der Aula und natürlich auch an unserem Neuland Stand. Wir konnten an diesem Tag wieder einige neue Mitglieder anwerben, auch haben manche Studis zuvor bereits von uns gehört und sind deswegen zu unserem Stand gekommen. Natürlich hatten wir wie jedes Semester auch unser Entenplanschbecken dabei, bei dem es diesmal eine weitere Ente zu angeln gab, nämlich die "Absolvente" mit Absolventenhut. Wie im Wintersemester üblich, waren bei unserer Infoveranstaltung am 16.10. viele neue Gesichter da. Insgesamt zählten wir etwa 25 Personen. Zwei von ihnen sind noch am selben Tag dem Verein beigetreten, ein paar weitere in den Tagen danach. Viele von ihnen hatten großes Interesse, auch an der Neuland Next App. Ungefähr zehn von ihnen sind anschließend zum Stammtisch im Castello mitgekommen, um über den Verein, die App und unsere IT-Infrastruktur zu plaudern. Der folgende Brettspielabend war diesmal deutlich größer, als alle bisherigen. Es waren so viele Studis da, dass unser Organisator sehr viel Mühe hatte, die übliche Pizzabestellung umzusetzen. Insgesamt waren es 34 Personen, wobei sie sich auf mehrere Tische verteilten. Es gab einen Poker Tisch, einen Cards Against Humanity Tisch und einen Tisch, an dem abwechselnd verschiedene andere Spiele gespielt wurden. Am 25.10., also schon relativ früh im Semester, fand dann unsere [LAN Party](https://neuland-ingolstadt.de/de/blog/lan-party-october-2025) mit [HGI](https://hochschulgaming.de/) statt. Laut Aussagen der Organisatoren war es die entspannteste LAN Party bislang. Das Internet hat sogar schon zwei Stunden vor Beginn funktioniert. Als Challenge für die Teilnehmer gab es ein Tetris Turnier von Red Bull und natürlich jede Menge Red Bull. Etwas später am Abend gab es noch ein Clash Royale Turnier. Die [Cookie Talks im November](https://neuland-ingolstadt.de/de/blog/cookie-talks-code-together-2025-11) waren ein voller Erfolg. Nicht nur wegen der intensiven Werbung für die Veranstaltung, sondern auch aufgrund der sehr interessanten Vorträge war der Veranstaltungsraum am Ende so voll, dass einige der Zuschauer stehen mussten. Dank der großartigen Unterstützung, die wir von Hetzner für unsere Infrastruktur bekommen, konnten wir auch einige Gutscheine für Serverguthaben verschenken. Vor allem ein Talk stach an diesem Abend besonders heraus, und zwar der Talk über die Infrastruktur der Neuland Next App, welche auf mehreren von Hetzner bereitgestellten Servern betrieben wird. Auch sehr interessant waren die Vorträge "Wie gründe ich einen Verein?" und "Roast My Homelab!", bei dem es darum ging, wie man seine eigene kleine Cloud Infrastruktur von zu Hause aus betreibt. Am 21.11. hat eines unserer neuen Mitglieder eine spontane Release-Party für Fedora 43 organisiert, auf der im Lifestream alle Neuerungen der Distribution gezeigt und erläutert wurden. Zuvor gab es bereits eine [Linux Install Party](https://neuland-ingolstadt.de/de/blog/linux-install-party-2025-11), auf der verschiedene Distributionen ausprobiert wurden und sich die Teilnehmer gegenseitig bei Fehlern unterstützt haben. Der geplante Neuland CTF für das Wintersemester musste bedauerlicherweise abgesagt werden, jedoch gab es als Ersatz ein zweites Mal Cookie Talks. Die Vorträge am 03.12. waren mindestens genauso spannend und informativ wie die beim Mal davor. Zu den Talks zählten "Einführung in Kubernetes", "In 30 Minuten zum eigenen AI-Startup" und "Nichtdeterminismus deterministisch determinieren". Klingt sehr interessant, nicht wahr? Wenn ich Ihr Interesse geweckt habe, schauen Sie gerne ab und zu in die Neuland Next App, denn es wird in Zukunft noch weitere Cookie Talks geben. Kurz vor Ende des Jahres gab es dann die Neuland Weihnachtsfeier. Neben selbstgebackenen Plätzchen, Glühwein und Punsch gab es auch eine Präsentation mit Fotos und einigen Erzählungen über die Highlights aus dem ganzen Jahr.
+Die ersten beiden Einträge auf der Liste gehören streng genommen noch zum Sommersemester, wegen ihrer zeitlichen und thematischen Nähe zum Wintersemester nehmen wir sie hier aber trotzdem mit.
+
+Den Auftakt machte der **Spieleabend @ BayStuRa**, eine gemütliche Runde, bei der unserer Neuländer Studierende von anderen Hochschulen kennenlernen konnten. Der BayStuRa oder Bayerische Landesstudierendenrat ist ein Gremium, welches aus Studierenden von bayerischen Hochschulen besetzt ist und die Interessen der Studierenden in ganz Bayern vertritt, sozusagen wie unsere Studierendenvertretung an der THI, nur größer und bayernweit. Zur Freude der Teilnehmer hat der BayStuRa sogar Abendessen und Getränke spendiert.
+
+Kurz vor Beginn des Wintersemesters fanden wie gewohnt **Einführungstage** statt. Da viele Neuländer aber noch nicht ganz aus den Ferien zurück waren, haben sich ein paar wenige Mitglieder einfach unter die Studierendenvertretung gemischt und so an den beiden Tagen etwas Präsenz gezeigt. Richtig los ging es dann am **Erstitag** des Wintersemesters: In der Aula und natürlich auch an unserem Neuland-Stand war richtig was los und wir konnten wieder einige neue Mitglieder begrüßen. Manche Studis hatten zuvor bereits von uns gehört und haben deswegen gezielt unseren Stand aufgesucht. Unser Entenplanschbecken durfte natürlich nicht fehlen, diesmal mit einer Neuheit: der „Absolvente" im Absolventenhut, die man gewinnen konnte.
+
+Bei unserer **Infoveranstaltung** am 16.10. waren, wie üblich im Wintersemester, viele neue Gesichter da; insgesamt zählten wir etwa 25 Personen. Zwei von ihnen sind noch am selben Tag dem Verein beigetreten, ein paar weitere folgten in den nächsten Tagen. Besonders die Neuland Next App weckte großes Interesse. Etwa zehn der Interessenten begleiteten uns anschließend zu unserem Stammtisch ins Al Castello, wo wir über den Verein, die App und unsere IT-Infrastruktur plauderten.
+
+Der folgende **Brettspielabend** setzte neue Maßstäbe: 34 Personen verteilten sich auf mehrere Tische – Poker, Cards Against Humanity und ein bunter Mix weiterer Spiele. Unser Organisator hatte alle Hände voll zu tun, die Pizzabestellung für die Masse zu koordinieren.
+
+Am 25.10. – also schon früh im Semester – fand unsere [**LAN Party**](https://neuland-ingolstadt.de/de/blog/lan-party-october-2025) zusammen mit [HGI](https://hochschulgaming.de/) statt. Das Urteil der Organisatoren: die entspannteste LAN Party bisher. Das Internet funktionierte sogar schon zwei Stunden vor Beginn – ein kleines Wunder. Für sportlichen Ehrgeiz sorgte ein Tetris-Turnier von Red Bull und mit Red Bull, später folgte noch ein Clash-Royale-Turnier.
+
+Die **[Cookie Talks im November](https://neuland-ingolstadt.de/de/blog/cookie-talks-code-together-2025-11)** waren ein voller Erfolg. Dank intensiver Werbung und spannender Vorträge war der Raum am Ende so voll, dass einige Zuschauer stehen mussten. Unser Sponsor Hetzner ermöglichte es uns außerdem, Gutscheine für Serverguthaben zu verlosen. Der Abend-Highlight war der Vortrag über die Infrastruktur der Neuland Next App, die auf mehreren von Hetzner bereitgestellten Servern läuft. Aber auch »Wie gründe ich einen Verein?« und »Roast My Homelab!« – ein Vortrag rund ums Betreiben einer eigenen Cloud-Infrastruktur zuhause – kamen sehr gut an.
+
+Am 21.11. organisierte eines unserer neuen Mitglieder kurzentschlossen eine **Fedora-43-Release-Party**, bei der im Livestream alle Neuerungen der Distribution vorgestellt wurden. Bereits zuvor hatte die **[Linux Install Party](https://neuland-ingolstadt.de/de/blog/linux-install-party-2025-11)** stattgefunden, bei der Teilnehmer verschiedene Distributionen ausprobiert und sich gegenseitig bei Problemen geholfen haben.
+
+Der geplante **CTF** musste leider abgesagt werden – dafür gab es als Ersatz ein zweites Mal **Cookie Talks** am 03.12., die dem ersten Mal in nichts nachstanden. Auf dem Programm standen »Einführung in Kubernetes«, »In 30 Minuten zum eigenen AI-Startup« und der mysteriös klingende »Nichtdeterminismus deterministisch determinieren«. Neugierig geworden? In der Neuland Next App findet ihr Ankündigungen zu künftigen Cookie Talks.
+
+Den Abschluss des Jahres bildete die **Neuland-Weihnachtsfeier**: selbstgebackene Plätzchen, Glühwein, Punsch und eine Bilderpräsentation mit den schönsten Momenten des ganzen Jahres.
 
 ## Projekte und Neuland Next
 
-Nicht nur bei den Veranstaltungen, sondern auch bei unseren Projekten hat sich einiges getan. Zu Beginn des Wintersemesters wurde das neue [Campus-Life-Tool](https://neuland-ingolstadt.de/de/projects/campus-life-events) in Betrieb genommen. Sie fragen sich, was das ist? Lassen Sie mich das erklären. Der Campus Life Verbund ist ein Zusammenschluss aller Studentischen Vereine an der Technischen Hochschule Ingolstadt. Da jeder dieser Vereine seine Veranstaltungen gerne über die Neuland Next App veröffentlichen möchte, stellen wir eine Plattform bereit, über die jeder Verein seine Veranstaltungen eintragen kann. Diese Veranstaltungen werden dann automatisch in der Neuland Next App angezeigt und auch für das Versenden des wöchentlichen Campus Life Newsletter verwendet.
+Nicht nur bei den Veranstaltungen hat sich einiges getan. Zu Beginn des Wintersemesters ging das neue **[Campus-Life-Tool](https://neuland-ingolstadt.de/de/projects/campus-life-events)** in Betrieb. Dahinter steckt folgender Gedanke: Der Campus-Life-Verbund bündelt alle studentischen Vereine der THI. Damit jeder Verein seine Veranstaltungen unkompliziert über die Neuland Next App bewerben kann, stellen wir eine gemeinsame Plattform bereit. Eingetragene Events erscheinen automatisch in der App und fließen in den wöchentlichen Campus-Life-Newsletter ein.
 
-Natürlich gab es auch einige Neuerungen bei der [Neuland Next App](https://neuland-ingolstadt.de/de/projects/neuland-next). Ich habe für Sie ein paar davon herausgesucht. Die auffälligsten Neuerungen betrafen unter anderem die Karte, in der nun das K und das W Gebäude vollständig eingezeichnet sind. Aber auch der Hochschulsport und die Veranstaltungen der Vereine sind jetzt getrennt auf dem Homescreen zu finden und es wurde ein neuer Quicklink für den online Druckdienst der THI eingefügt. Da die Neuland Next App mittlerweile die einzige App für die THI ist, nicht zuletzt, da die ursprünglichen THI Apps aus den App-Stores genommen wurden, darf die App in Zukunft mit dem Slogan "Deine App für die THI" für sich werben. Der vorherige Slogan "Deine inoffizielle App für die THI" ist somit Geschichte. Neben Änderungen der Nutzeroberfläche soll demnächst auch auf eine neue Schnittstelle des Primuss Portals migriert werden.
+Auch bei der **[Neuland Next App](https://neuland-ingolstadt.de/de/projects/neuland-next)** gibt es einige Neuerungen. Ein paar Highlights: Die Campuskarte zeigt nun das K- und das W-Gebäude vollständig. Hochschulsport und Vereinsveranstaltungen sind auf dem Homescreen getrennt aufgeführt, und ein neuer Quicklink zum Online-Druckdienst der THI wurde ergänzt. Da die ursprünglichen THI-Apps inzwischen aus den App-Stores verschwunden sind, ist Neuland Next die einzige App für die THI – und darf das ab sofort auch offen sagen: Der neue Slogan lautet »Deine App für die THI« – das »inoffizielle« ist Geschichte. Technisch steht außerdem die Migration auf eine neue Schnittstelle des Primuss-Portals an.
 
-Da die Neuland Next App inzwischen schon etwa zwei Jahre lang in Betrieb ist, hat sie mittlerweile eine große Menge an Nutzungsdaten gesammelt, welche ausgewertet werden, um Verbesserungen an der App vorzunehmen. Hierfür wurde eine Kooperation mit dem Studiengang User Experience Design angestoßen. Wenn alles gut läuft, wird es im Sommersemester 2026 ein paar Plakate am Campus geben, die die Nutzungsdaten der Neuland Next App visualisieren.
+Da die App mittlerweile knapp zwei Jahre in Betrieb ist, hat sich eine beachtliche Menge an Nutzungsdaten angesammelt. Um diese sinnvoll auszuwerten, wurde eine Kooperation mit dem Studiengang User Experience Design ins Leben gerufen. Wenn alles gut läuft, werden im Sommersemester 2026 ein paar Plakate am Campus die Nutzungsdaten der Neuland Next App visualisieren.
 
-Nicht nur die Neuland Next App glänzt mit Neuerungen, auch unsere [Website](https://neuland-ingolstadt.de/de) hat ein umfassendes Update erhalten. Das Design wurde grundlegend überarbeitet, um es optimal an das neue Corporate Design der THI anzupassen. Zudem ist die Website nun zweisprachig auf Deutsch und Englisch verfügbar, um auch internationalen Studierenden einen bestmöglichen Empfang zu bieten.
+Nicht nur die Neuland Next App glänzt mit Neuerungen, auch unsere **[Website](https://neuland-ingolstadt.de/)** hat ein umfassendes Update erhalten. Das Design wurde grundlegend überarbeitet und an das neue Corporate Design der THI angepasst. Neu ist außerdem die zweisprachige Verfügbarkeit auf Deutsch und Englisch – damit auch internationale Studierende direkt gut informiert sind.
 
 ## Was als Nächstes kommt
 
-Nach dem erfolgreichen 3D Druck Workshop im Sommersemester 2025 wird es im Sommersemester 2026 wieder einen Workshop geben. Diesmal wahrscheinlich sogar mit zwei Teilen, einem für Theorie und einem für Praxis. Ebenso wird es auf jeden Fall wieder Cookie Talks geben. Ich bin schon gespannt, welche Vorträge es geben wird. Und zu guter Letzt wird das neue Studierendenhaus (W-Gebäude) zu Beginn des Sommersemesters 2026 fertig, sodass unser Verein bald in sein neues Büro in W207 einziehen kann.
+Das Sommersemester 2026 hat einiges zu bieten. Nach dem erfolgreichen **3D-Druck-Workshop** im letzten Sommersemester gibt es diesmal eine zweiteilige Version – ein Teil Theorie und ein Teil Praxis. Natürlich werden auch die **Cookie Talks** fortgesetzt; wir sind gespannt, welche Themen diesmal auf dem Programm stehen. Und das wohl größte Highlight: Das neue Studierendenhaus (W-Gebäude) wird zu Semesterbeginn fertiggestellt – wir freuen uns schon sehr auf unser neues Büro in W207.
